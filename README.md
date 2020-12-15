@@ -1,9 +1,9 @@
 
 # Hi there 👋, my name is ADEBAYO ABDULWAASI
-##Frontend Web Developer
+## Frontend Web Developer
 
 
-Hi there, i am Adebayo Abdulwaasi a passionate web developer from Nigeria.
+### Hi there, i am Adebayo Abdulwaasi a passionate web developer from Nigeria.
 
 - 🔭 I’m currently working on client-side web application
 - 🌱 I’m currently learning Javascript

@@ -3,7 +3,7 @@
 ## Frontend Web Developer
 
 
-### Hi there, i am Adebayo Abdulwaasi a passionate web developer from Nigeria.
+### Hi, i am Adebayo Abdulwaasi a passionate web developer from Nigeria.
 
 - 🔭 I’m currently working on client-side web application
 - 🌱 I’m currently learning Javascript
